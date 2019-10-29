@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="94px" height="20px" viewBox="0 0 94 20" enable-background="new 0 0 94 20" xml:space="preserve">
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M3,0h88c1.656,0,3,1.343,3,3v14c0,1.656-1.344,3-3,3H3c-1.657,0-3-1.344-3-3V3C0,1.343,1.343,0,3,0z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<path fill="#555555" d="M0,0h49v20H0V0z"/>
+		<path fill="#007EC6" d="M49,0h45v20H49V0z"/>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-100.2456" y1="248.2246" x2="-100.2456" y2="247.2246" gradientTransform="matrix(94 0 0 -20 9470.0625 4964.5)">
+			<stop  offset="0" style="stop-color:#BBBBBB;stop-opacity:0.1"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0.1"/>
+		</linearGradient>
+		<path fill="url(#SVGID_3_)" d="M0,0h94v20H0V0z"/>
+	</g>
+</g>
+<g>
+	<g enable-background="new    ">
+		<text transform="matrix(1 0 0 1 5.6968 15)" fill="#010101" font-family="'Verdana'" font-size="11">Donate</text>
+	</g>
+	<text transform="matrix(1 0 0 1 5.6968 14)" fill="#FFFFFF" font-family="'Verdana'" font-size="11">Donate</text>
+	<g enable-background="new    ">
+		<text transform="matrix(1 0 0 1 52.8076 15)" fill="#010101" font-family="'Verdana'" font-size="11">PayPal</text>
+	</g>
+	<text transform="matrix(1 0 0 1 52.8076 14)" fill="#FFFFFF" font-family="'Verdana'" font-size="11">PayPal</text>
+</g>
+</svg>

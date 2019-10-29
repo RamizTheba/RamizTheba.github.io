@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="76px" height="20px" viewBox="0 0 76 20" enable-background="new 0 0 76 20" xml:space="preserve">
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M3,0h70c1.656,0,3,1.343,3,3v14c0,1.656-1.344,3-3,3H3c-1.657,0-3-1.344-3-3V3C0,1.343,1.343,0,3,0z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<path fill="#555555" d="M0,0h33v20H0V0z"/>
+		<path fill="#E91E63" d="M33,0h43v20H33V0z"/>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-108.4746" y1="248.2246" x2="-108.4746" y2="247.2246" gradientTransform="matrix(76 0 0 -20 8282.0625 4964.5)">
+			<stop  offset="0" style="stop-color:#BBBBBB;stop-opacity:0.1"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0.1"/>
+		</linearGradient>
+		<path fill="url(#SVGID_3_)" d="M0,0h76v20H0V0z"/>
+	</g>
+</g>
+<g>
+	<g enable-background="new    ">
+		<text transform="matrix(1 0 0 1 6.0972 15)" fill="#010101" font-family="'Verdana'" font-size="11">Size</text>
+	</g>
+	<text transform="matrix(1 0 0 1 6.0972 14)" fill="#FFFFFF" font-family="'Verdana'" font-size="11">Size</text>
+	<g enable-background="new    ">
+		<text transform="matrix(1 0 0 1 36.9922 15)" fill="#010101" font-family="'Verdana'" font-size="11">36 KB</text>
+	</g>
+	<text transform="matrix(1 0 0 1 36.9922 14)" fill="#FFFFFF" font-family="'Verdana'" font-size="11">20 KB</text>
+</g>
+</svg>
